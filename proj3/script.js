@@ -1,7 +1,7 @@
 const courses = [
     {
         name :"Complete ReactJS Course",
-        price : "2.3",
+        price : "2",
     },
     {
         name :"Complete Angular Course",
